@@ -75,5 +75,8 @@
     ],
     "extra": {
         "magento-force": "override"
+    },
+    "require": {
+      "eadesignro/ro_ro": "1.1.*",
     }
 }
